@@ -1,0 +1,13 @@
+Hello guys
+
+1. Today we will make student CRUD system using one to one relationship with resource controller
+
+2. First of all make models name Student and Contact.
+
+3. Then create the migration and set the database
+
+4. Now create the resource controller and write the url into web.php
+
+5. You already checked the code. Now let's see the magic.
+
+6. Hey guys, you see the result of those code. Now let's put them into github. you'll get the source code from my github.
